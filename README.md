@@ -207,22 +207,6 @@ Connect SQL database with Power BI or Tableau for real-time dashboards.
 
 ---
 
-# STAR Method Interview Explanation
-
-## Situation
-The company faced inventory imbalance issues, delayed deliveries, and inefficient stock management.
-
-## Task
-The task was to analyze supply chain and inventory data using SQL to improve operational efficiency.
-
-## Action
-Performed EDA, built SQL queries using joins, CTEs, aggregations, and window functions to analyze inventory, supplier performance, and sales trends.
-
-## Result
-The analysis improved inventory visibility, identified dead stock products, optimized reorder planning, and supported better supply chain decision-making.
-
----
-
 # Conclusion
 
 This project demonstrates how SQL can be used to solve real-world supply chain and inventory management problems.  
